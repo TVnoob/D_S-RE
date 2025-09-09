@@ -1,1 +1,3 @@
 item.system:configUI=設定UI
+item.item:join=§a参加する
+item.item:spectator=§g観戦する
