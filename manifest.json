@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+      "description": "pls read README",
+      "name": "DeathSwap-RE",
+      "uuid": "0448eca8-e3b9-4dd4-9f5d-afdb6ee30300",
+      "version": [0, 0, 1],
+      "min_engine_version": [ 1, 21, 82 ]
+  },
+  "modules": [
+      {
+          "description": "Create by Delta_Conveyor",
+          "type": "resources",
+          "uuid": "e48feb1f-791d-43d6-a4cf-ca9063c2c39e",
+          "version": [0, 0, 1]
+      }
+  ],
+  "dependencies": [
+      {
+        "uuid": "17122ab1-9885-4a44-9f24-cd55bc7011ef",
+        "version": [0,0,1]
+      }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "resource_pack_name": "high_res_items",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "configcmd" : {"textures" : "textures/RP/items/cmd.png"}
+    }
+  }
