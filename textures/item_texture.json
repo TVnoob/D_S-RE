@@ -2,6 +2,8 @@
     "resource_pack_name": "high_res_items",
     "texture_name": "atlas.items",
     "texture_data": {
-        "configcmd" : {"textures" : "textures/RP/items/cmd.png"}
+        "configcmd" : {"textures" : "textures/RP/items/cmd.png"},
+        "join" : {"textures" : "textures/RP/items/ok16x16.png"},
+        "spec" : {"textures" : "textures/RP/items/spec16x16.png"}
     }
   }
