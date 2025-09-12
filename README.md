@@ -1,5 +1,5 @@
 # DeathSwap-ResousePack
-### [リソースパック](https://github.com/TVnoob/D_S)
+### [ビヘイビアーパック](https://github.com/TVnoob/D_S)
 ### create by Delta_conveyor
 - MIT ライセンスはアドオン自体に内蔵されているのでライセンスのためのクレジットは不要です
 
