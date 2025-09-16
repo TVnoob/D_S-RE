@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-      "description": "beta-version(0.1.0)",
-      "name": "DeathSwap-RE",
+      "description": "Nico_systems_RE",
+      "name": "Nicoaddons-RE",
       "uuid": "d30a4952-0bed-4a85-aa98-3ece2057924c",
       "version": [0, 1, 0],
       "min_engine_version": [ 1, 21, 82 ]
