@@ -3,7 +3,7 @@
   "header": {
       "description": "beta-version(0.1.0)",
       "name": "DeathSwap-RE",
-      "uuid": "0448eca8-e3b9-4dd4-9f5d-afdb6ee30300",
+      "uuid": "d30a4952-0bed-4a85-aa98-3ece2057924c",
       "version": [0, 1, 0],
       "min_engine_version": [ 1, 21, 82 ]
   },
@@ -11,13 +11,13 @@
       {
           "description": "Create by Delta_Conveyor",
           "type": "resources",
-          "uuid": "e48feb1f-791d-43d6-a4cf-ca9063c2c39e",
+          "uuid": "37e243f7-4a7f-4de3-a9c2-24cfde414c06",
           "version": [0, 1, 0]
       }
   ],
   "dependencies": [
       {
-        "uuid": "17122ab1-9885-4a44-9f24-cd55bc7011ef",
+        "uuid": "0b3941e6-5f64-443b-9eb0-715a41782bfd",
         "version": [0,1,0]
       }
     ]
