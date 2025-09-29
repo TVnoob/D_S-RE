@@ -3,7 +3,7 @@
   "header": {
       "description": "Nico_systems_RE",
       "name": "Nicoaddons-RE",
-      "uuid": "d30a4952-0bed-4a85-aa98-3ece2057924c",
+      "uuid": "7a6372e0-5d0a-4907-a5db-ca5fe022e98a",
       "version": [0, 1, 0],
       "min_engine_version": [ 1, 21, 82 ]
   },
@@ -11,13 +11,13 @@
       {
           "description": "Create by Delta_Conveyor",
           "type": "resources",
-          "uuid": "37e243f7-4a7f-4de3-a9c2-24cfde414c06",
+          "uuid": "b0a9d1a9-79f7-41e7-95ea-7486791dc44f",
           "version": [0, 1, 0]
       }
   ],
   "dependencies": [
       {
-        "uuid": "0b3941e6-5f64-443b-9eb0-715a41782bfd",
+        "uuid": "7709cc5b-c6ea-4864-aeca-c93187c2de33",
         "version": [0,1,0]
       }
     ]
